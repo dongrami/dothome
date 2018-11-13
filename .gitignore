@@ -1,4 +1,5 @@
 dbconfig.php
 .vscode
+.gitignore
 .htaccess
- sftp.json
+
